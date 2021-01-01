@@ -1,0 +1,9 @@
+asn1crypto==1.4.0
+base58==2.0.0
+bip32==0.0.8
+cffi==1.14.4
+coincurve==13.0.0
+ecdsa==0.16.1
+mnemonic==0.19
+pycparser==2.20
+six==1.15.0
