@@ -5,8 +5,6 @@ from utils import get_chash_160
 
 
 def create_wallet(testnet=False):
-    testnet = False
-
     path = "m/44'/1'/0'/0/0" if testnet else "m/44'/0'/0'/0/0"
 
     mnemo = Mnemonic("english")
